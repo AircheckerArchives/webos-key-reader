@@ -9,7 +9,7 @@ This is a tool for webOS TVs (and compatibles?) that reads the DVR encryption ke
 3. Download and run the script like this:
 
    ```
-   curl -L "https://raw.githubusercontent.com/pzlds/webos-key-reader/master/dump.sh" | bash -
+   curl -L "https://github.com/AircheckerArchives/webos-key-reader/raw/refs/heads/master/dump.sh" | bash -
    ```
 
 4. Wait until the keys are printed.
