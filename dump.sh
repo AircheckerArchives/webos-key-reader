@@ -8,7 +8,7 @@ cd "${WORKDIR}"
 
 if [ ! -f "gdb" ]; then
 >&2 echo "[*] Obtaining GDB..."
-curl -sS -L -o gdb "https://github.com/marcinguy/arm-gdb-static/raw/master/gdbstatic"
+curl -sS -L -o gdb "https://github.com/lslx/arm-gdb-static/raw/master/gdb76"
 chmod +x gdb
 fi
 
